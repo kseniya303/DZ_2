@@ -1,0 +1,7 @@
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.exe.config
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.exe
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\bin\Debug\DZ_2.pdb
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.csprojAssemblyReference.cache
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.csproj.CoreCompileInputs.cache
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.exe
+C:\Users\Kseny\source\repos\DZ_2\DZ_2\obj\Debug\DZ_2.pdb
