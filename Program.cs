@@ -15,7 +15,26 @@ namespace DZ_2
             //Task3.Boo();
             //Task4.Arr();
             //Task5.Num();
-                
+
+            //KoncT:
+
+            //Pencil k = new Pencil();
+            //double j = 88.0;
+            //k.Count_Min(ref j, 8.9);
+            //KoncT k1 = new KoncT(23);
+            //KoncT k2 = new KoncT(773, "gogo");
+            //Pencil[] arr = new Pencil[5];
+            //for(int i = 0; i < 5; i++)
+            //{
+            //    arr[i] = new Pencil();
+            //}
+
+            //PARTIAL:
+
+            //par1 p = new par1();
+            //p.Bo();
+            //p.Bob(); 
+
         }
     }
 }

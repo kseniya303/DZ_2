@@ -2,12 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-//Числовые значения символов нижнего регистра в коде ASCII
-//отличаются от значений символов верхнего регистра на
-//величину 32. Используя эту информацию, написать программу, которая считывает с клавиатуры и конвертирует
-//Домашнее задание №1 Домашнее задание №<Номер дз>
-//все символы нижнего регистра в символы верхнего регистра и наоборот
+using System.Threading.Tasks; 
 namespace DZ_2
 {
     public static class Task3
